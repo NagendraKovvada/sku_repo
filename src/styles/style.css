@@ -1,0 +1,25 @@
+/* @import "~antd/dist/antd.css" */
+
+.add_contact {
+    top: 10px;
+    float: right;
+    margin: 10px;
+    z-index: 1
+}
+
+.delete_contact {
+    left: 15px;
+    position: relative;
+}
+
+.ant-table.ant-table-default {
+    margin-top: 5% !important;
+}
+
+.ant-modal-footer {
+    display: none !important
+}
+
+.ant-form-item-children button {
+    left: 50% !important
+}
